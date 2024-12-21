@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859185643242",
+    "project_id": "flt07-bcf97",
+    "storage_bucket": "flt07-bcf97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859185643242:android:0daea23be1c29402cf6193",
+        "android_client_info": {
+          "package_name": "com.example.flt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq0BjuL9cSUu59lF4CP4yeMCGADR1mN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
